@@ -1,0 +1,27 @@
+.tasks{
+    background-color:beige;
+    min-height: 800px;
+}
+.tasks__choose{
+    position: relative;
+    display: block;
+}
+.btn {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+
+.create, .delete {
+    width: 300px;
+    height: 200px;
+    font-size: 80px;
+    color: red;
+    border-radius:10px;
+}
+
+.delete {
+    color: blue;
+}
+

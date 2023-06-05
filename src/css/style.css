@@ -1,0 +1,29 @@
+@import url(tasks.css);
+
+* {
+    
+    font-family: 'Mont', sans-serif;
+    font-weight: 400;
+}
+
+body {
+    margin: 0px;
+    /* background-color: black; */
+}
+
+.container {
+    /* height: 880px; */
+    margin: 0 auto;
+    width: 1024px;
+}
+
+.box {
+    margin-top: 30px;
+    width:300px;
+    min-height: 100px;
+    background-color:azure;
+    font-size: 18px;
+    padding-top: 2px;
+    padding-left: 5px;
+    color:blue;
+}
